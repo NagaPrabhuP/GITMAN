@@ -4,3 +4,6 @@ this is the third line adding docker creds
 this is the fourth line
 Welcome to aws platform
 welcome to azure platform
+Welcome to devops platform
+Welcome to Kubernetes Platform
+
